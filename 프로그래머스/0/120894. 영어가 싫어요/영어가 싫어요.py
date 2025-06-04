@@ -1,5 +1,5 @@
 def solution(numbers):
-    #배열
+    #배열"
     num_list=["zero","one","two","three","four",
          "five", "six","seven","eight","nine"]
     temp=""
