@@ -1,3 +1,4 @@
+#머신러닝에서 중요.
 def solution(array):
     sorted_array = sorted(array)
     length = len(sorted_array)
