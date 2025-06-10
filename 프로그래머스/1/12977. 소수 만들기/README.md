@@ -1,10 +1,10 @@
 # [level 1] 소수 만들기 - 12977 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=python3) 
 
 ### 성능 요약
 
-메모리: 9.18 MB, 시간: 21.26 ms
+메모리: 9.13 MB, 시간: 204.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 10일 13:21:12
+2025년 06월 10일 13:41:13
 
 ### 문제 설명
 
