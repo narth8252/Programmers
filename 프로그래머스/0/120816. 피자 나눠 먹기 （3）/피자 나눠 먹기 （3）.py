@@ -1,3 +1,6 @@
+#풀이 10명이 7조각 = 2판
+#n//slice ->정수올림 math.ceil(num)
+#n//slice+1 -> 소수점자르기 int(num)
 import math
 
 def solution(slice, n):
