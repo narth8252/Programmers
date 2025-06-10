@@ -10,3 +10,6 @@ def solution(n, numlist): #numlist안 숫자하나씩 차례로꺼내 num변수�
         if num%n==0: #num이 n의배수인지 = num/n나머지0이면
             result.append(num) #배수이면 result리스트에 append
     return result
+
+def solution(n, numlist):
+    return list(filter(lambda x: x%n==0, numlist))
