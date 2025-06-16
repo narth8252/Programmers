@@ -1,7 +1,7 @@
 def solution(n):
     answer = []
     #3들어간것도 안됨, %3==0도 안되고, 
-    for i in range(1001):
+    for i in range(1000):
         if i % 3 != 0 and '3' not in str(i):
             answer.append(i)        
     return answer[n-1]

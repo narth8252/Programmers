@@ -1,10 +1,10 @@
 # [level 0] 저주의 숫자 3 - 120871 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120871) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120871?language=python3) 
 
 ### 성능 요약
 
-메모리: 9.25 MB, 시간: 0.18 ms
+메모리: 9.24 MB, 시간: 0.33 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 16일 19:28:07
+2025년 06월 16일 19:37:59
 
 ### 문제 설명
 
